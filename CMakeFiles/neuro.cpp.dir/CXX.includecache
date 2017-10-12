@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/localguest/Documents/Neuro/constants.hpp
+
+/home/localguest/Documents/Neuro/main.cpp
+neuro.cpp
+/home/localguest/Documents/Neuro/neuro.cpp
+fstream
+-
+
+/home/localguest/Documents/Neuro/neuro.cpp
+neuro.hpp
+/home/localguest/Documents/Neuro/neuro.hpp
+
+/home/localguest/Documents/Neuro/neuro.hpp
+iostream
+-
+vector
+-
+cmath
+-
+constants.hpp
+/home/localguest/Documents/Neuro/constants.hpp
+
